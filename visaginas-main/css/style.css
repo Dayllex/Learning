@@ -64,6 +64,9 @@ a {
     width: 630px;
     height: 674.47px;
 }
+img .hero__pic {
+    width: 630px;
+}
 .hero__title {
     font-family: 'NextBold';
     font-size: 72px;
